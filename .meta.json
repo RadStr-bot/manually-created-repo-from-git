@@ -1,0 +1,21 @@
+{
+  "iri": "2d49653c-ec0f-4df7-a83f-719477b454bc",
+  "types": [
+    "http://dataspecer.com/resources/local/package"
+  ],
+  "userMetadata": {
+    "label": {
+      "cs": "Nove jmeno z gitu",
+      "en": "New name from git"
+    },
+    "description": {}
+  },
+  "metadata": {
+    "creationDate": "2025-08-24T09:18:41.975Z",
+    "modificationDate": "2025-08-24T09:30:17.106Z"
+  },
+  "_version": 1,
+  "_exportVersion": 1,
+  "_exportedAt": "2025-08-24T09:30:49.561Z",
+  "_exportedBy": "http://localhost:3100"
+}
